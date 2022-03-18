@@ -1,0 +1,31 @@
+body
+{
+    font-family: "Roboto Mono", monospace;
+    min-height: 600px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Ij3QxDgt-bZwR6Mp7hQNvfC0XBQtxwSgTQpnun2WP_0F9HAxaBDZgXe4RBbARQeXBAg&usqp=CAU");
+    background-color: #000000;
+    background-size: 100vh;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.container
+{
+    text-align: center;
+}
+
+.pageTitle
+{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.pageSubtitle
+{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+h2{
+    color: white;
+}
